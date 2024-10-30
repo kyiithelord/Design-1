@@ -20,7 +20,7 @@ const Test = () => {
         {items.map((item,i) => (
           <motion.li variants={variants} key={item}  custom={i}> {item} </motion.li>
         ))}
-      </motion.ul>
+      </motion.ul>  
     </div>
   );
 };
