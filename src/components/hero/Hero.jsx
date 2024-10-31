@@ -48,7 +48,7 @@ const Hero = () => {
           animate="animate"
         >
           <motion.h2 variants={textVariants}>Kyaw Kyaw</motion.h2>
-          <motion.h1 variants={textVariants}>Chief IT Manager</motion.h1>
+          <motion.h1 variants={textVariants}>Chief Technology Officer</motion.h1>
           <motion.p variants={textVariants}>
             I bring strategic insight and technical expertise to oversee and
             enhance IT infrastructure,ensuring optimal performance and security
