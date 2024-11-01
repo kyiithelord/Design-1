@@ -3,6 +3,7 @@ import Hero from "./components/hero/Hero";
 import Navbar from "./components/navbar/Navbar";
 import Parallax from "./components/parallax/Parallax";
 import Portfolio from "./components/portfolio/Portfolio";
+import Person from "./components/person/Person";
 import Services from "./components/services/Services";
 // import Test from "./Test";
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
       <section><Services/></section>
       <section id="Portfolio"><Parallax type='portfolio'/></section>
       <Portfolio/>
+      <Person/>
       <section id="Contact">Contact</section>
     </>
   );
