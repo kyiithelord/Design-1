@@ -30,7 +30,7 @@ const items = [
   {
     id:5,
     title:'Switch Installation',
-    img:'https://www.pexels.com/photo/house-painted-as-nature-12419737/',
+    img:'/public/assembly.png',
     desc:'"Installing and configuring network switches to efficiently distribute connections between various devices. Ensures optimal data flow and provides necessary ports for wired devices."'
   },
 ]
