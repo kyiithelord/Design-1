@@ -5,18 +5,24 @@ import {motion,useScroll,useSpring, useTransform} from 'framer-motion';
 const items = [
   {
     id:1,
+    title:'Kyaw Kyaw San',
+    img:'https://bestsolution.surge.sh/images/kyaw-kyaw-san.jpg',
+    desc:"IT Security Engineer,System Engineer"
+  },
+  {
+    id:2,
     title:'Saw Wai Yan Htet',
     img:'https://bestsolution.surge.sh/images/saw-wai-yan-htet.jpg',
     desc:"IT Security Engineer,System Engineer"
   },
   {
-    id:2,
+    id:3,
     title:'Aung Bhone Myat',
     img:'https://bestsolution.surge.sh/images/aung-phone-myat.jpg',
     desc:'UI/UX Designer/Grapher Designer'
   },
   {
-    id:3,
+    id:4,
     title:'Thet Zin Kyaw',
     img:'https://bestsolution.surge.sh/images/thet-zin-kyaw.jpg',
     desc:"Web Developer"
